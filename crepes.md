@@ -3,7 +3,7 @@
 ## Ingrédients
 - 200 g de farine
 - 3 oeufs
-- 50 cl de lait
+- 60 cl de lait
 - 1 pincée de sel
 
 ## Préparation
