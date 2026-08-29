@@ -1,0 +1,5 @@
+# Fichiers locaux
+.env
+brouillons/
+*.log
+.DS_Store
