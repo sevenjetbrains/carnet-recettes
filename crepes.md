@@ -1,10 +1,12 @@
 # Crêpes
 
 ## Ingrédients
-- 200 g de farine
+- 250 g de farine de blé
 - 3 oeufs
 - 60 cl de lait
 - 1 pincée de sel
+- 2 c. à soupe de sucre
+
 
 ## Préparation
 1. Mélanger la farine et les oeufs.
